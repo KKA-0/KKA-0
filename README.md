@@ -2,4 +2,4 @@
 <li>⚙ Learning New Tech</li>
 <li>🔙 Back-end Developer</li>
 <li>🐥 Front-end Developer</li>
-<li>👩‍👨‍💻 C++</li>
+<li>👨‍💻 C++</li>
