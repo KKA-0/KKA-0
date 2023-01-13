@@ -10,7 +10,7 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKA-0&layout=compact)](https://github.com/KKA-0/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KKA-0&layout=compact)](https://github.com/KKA-0/github-readme-stats)
 
 
 
