@@ -1,7 +1,7 @@
 <h1>Hello, I Am Karan Agarwal</h1>
 <li>⚙ Learning New Tech</li>
-<li>💻 Full Stack Developer</li>
-<li>👨‍💻 C++</li>
+<li>💻 A Full Stack Developer Guy</li>
+<li>👨‍💻 C++ <a>LeetCode</a></li>
 <li>👨‍💻 Currently Learning Node.js and DSA</li>
 
 
