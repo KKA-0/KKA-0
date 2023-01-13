@@ -8,7 +8,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/KKA-1)
 
-<hr>
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
