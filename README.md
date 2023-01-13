@@ -10,11 +10,10 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KKA-0&layout=compact)](https://github.com/KKA-0/github-readme-stats)
 
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KKA_0)](https://github.com/KKA-0/github-readme-stats)
-
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KKA-0&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KKA_0" />
+</a>
