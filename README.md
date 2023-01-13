@@ -1,5 +1,3 @@
-![1673623389577](https://user-images.githubusercontent.com/85556603/212356106-898403cd-8f45-405d-86d7-6b97bc7b9722.jpg)
-
 
 <h1>Hello, I Am Karan Agarwal</h1>
 <li>⚙ Learning New Tech</li>
