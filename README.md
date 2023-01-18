@@ -5,7 +5,7 @@
 <li>⚙ Learning New Tech</li>
 <li>💻 A Full Stack Developer Guy</li>
 <li>👨‍💻 C++ <a>LeetCode</a></li>
-<li>🙌 Currently Learning Node.js, DP900 and DSA</li>
+<li>🙌 Currently Learning Node.js, DP900 and DSA</li>  
   
 <h3>Last 7 days Work Languages </h3>
 
