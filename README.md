@@ -8,8 +8,8 @@
 <li>🙌 Currently Learning Node.js, DP900 and DSA</li>  
   
 <h3>Last 7 days Work Languages </h3> 
-
-<!--START_SECTION:waka-->
+ 
+<!--START_SECTION:waka--> 
 
 ```text
 HTML         5 hrs 10 mins   ████████▓░░░░░░░░░░░░░░░░   34.67 %
