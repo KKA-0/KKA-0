@@ -9,15 +9,15 @@
   
 <h3>Last 7 days Work Languages </h3> 
  
-<!--START_SECTION:waka--> 
+<!--START_SECTION:waka-->
 
 ```text
-HTML         5 hrs 10 mins   ████████▓░░░░░░░░░░░░░░░░   34.67 %
-Python       3 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
-CSS          3 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
-JavaScript   2 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+HTML         5 hrs 10 mins   ████████▓░░░░░░░░░░░░░░░░   34.75 %
+Python       3 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+CSS          3 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
+JavaScript   2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
 JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
