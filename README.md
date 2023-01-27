@@ -4,7 +4,7 @@
 <h1>Hello, I Am Karan Agarwal</h1>
 <li>⚙ Learning New Tech</li>
 <li>💻 A Full Stack Developer Guy</li>
-<li>👨‍💻 C++ <img align="center" width="100" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>/KKA-1</li> 
+<li>👨‍💻 C++ <img align="center" width="85" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>/KKA-1</li> 
 <li>🙌 Currently Learning Node.js, DP900 and DSA</li>  
 
 <h3>Last 7 days Work Languages </h3> 
