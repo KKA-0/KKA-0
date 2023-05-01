@@ -20,7 +20,7 @@
       <ul>
         <li><a href="https://github.com/KKA-0/Quiska">Quiska</a></li>
         <li><a href="https://github.com/jadonharsh109/Bolo-coder">Bolo-Coder</a></li>
-         <li><a href="https://agarwal-handloom-website.vercel.app">AH Company Website</a></li>
+         <li><a href="https://agarwal-handloom-website.vercel.app">Brand Website</a></li>
          <li><a href="https://replit.com/@karanyobro/TraManager">TraManager</a></li>
       </ul>
     </td>
