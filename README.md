@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td style="width: 50%; background-color: #f2f2f2;">
+    <td style="width: 70%; background-color: #f2f2f2;">
       <h1>Hello, I Am Karan Agarwal</h1>
       <ul>
         <li>⚙ Learning New Tech</li>
@@ -15,7 +15,7 @@
         <li>🙌 Currently Learning Node.js, DP900 and DSA</li>  
       </ul>
     </td>
-    <td style="width: 50%; background-color: #ffffff;">
+    <td style="width: 30%; background-color: #ffffff;">
       <h2>Contributions:</h2>
       <ul>
         <li><a href="https://github.com/KKA-0/Quiska">Quiska</a></li>
