@@ -22,6 +22,7 @@
         <li><a href="https://github.com/jadonharsh109/Bolo-coder">Bolo-Coder</a></li>
          <li><a href="https://agarwal-handloom-website.vercel.app">Brand Website</a></li>
          <li><a href="https://replit.com/@karanyobro/TraManager">TraManager</a></li>
+         <li><a href="https://github.com/Linkin143/SpeedX">SpeedX</a></li>
       </ul>
     </td>
   </tr>
