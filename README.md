@@ -10,7 +10,7 @@
       <h1>Hello, I Am Karan Agarwal</h1>
       <ul>
         <li>⚙ Learning New Tech</li>
-        <li>💻 A Full Stack Developer Guy</li>
+        <li>💻 A Full Stack Developer Guy (MERN Stack)</li>
         <li>👨‍💻 C++ <img align="center" width="85" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>/KKA-1</li> 
         <li>🎓 MySQL</li>
         <li>🙌 Currently Learning AWS, DP900 and DSA</li>  
