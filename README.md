@@ -24,6 +24,7 @@
          <li><a href="https://agarwal-handloom.web.app/">Ecommerce Website</a></li>
          <li><a href="https://replit.com/@karanyobro/TraManager">TraManager</a></li>
          <li><a href="https://github.com/Linkin143/SpeedX">SpeedX</a></li>
+        <li><a href="https://taskmanager.quantgam.com">Task Manager</a></li>
       </ul>
     </td>
   </tr>
