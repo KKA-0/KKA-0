@@ -20,7 +20,6 @@
       <h2>Contributions:</h2>
       <ul>
         <li><a href="https://github.com/KKA-0/Quiska">Quiska</a></li>
-        <li><a href="https://github.com/jadonharsh109/Bolo-coder">Bolo-Coder</a></li>
          <li><a href="https://agarwal-handloom.web.app/">Ecommerce Website</a></li>
          <li><a href="https://replit.com/@karanyobro/TraManager">TraManager</a></li>
          <li><a href="https://github.com/Linkin143/SpeedX">SpeedX</a></li>
