@@ -1,7 +1,6 @@
 <!-- ![20230107_223458 (1)-01](https://user-images.githubusercontent.com/85556603/212357966-4002f7aa-471b-4b3c-923d-f2b0d543cad5.jpeg) -->
 
-![POSTER](https://github.com/KKA-0/KKA-0/assets/85556603/17c16f23-d298-4eb8-b6fe-b1361fc9d5ad)
-
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/KKA-0/KKA-0/assets/85556603/9f91eebb-d624-46aa-95a9-936d4ae8eaa6)
 
 
 
