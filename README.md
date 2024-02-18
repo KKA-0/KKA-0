@@ -10,7 +10,7 @@
       <h1>Hello, I Am Karan Agarwal</h1>
       <ul>
         <li>⚙ Learning New Tech</li>
-        <li>💻 Full / LAMP / MERN STACK DEVELOPER, Microservices</li>
+        <li>💻 Full / LAMP / MERN STACK DEVELOPER, Microservices,Serverless ,AWS</li>
         <li>🙌 Currently Learning Socket.io and Redis</li>  
       </ul>
     </td>
