@@ -10,16 +10,18 @@
       <h1>Hello, I Am Karan Agarwal</h1>
       <ul>
         <li>⚙ Learning New Tech</li>
-        <li>💻 Full / LAMP / MERN STACK DEVELOPER, Microservices,Serverless ,AWS</li>
-        <li>🙌 Currently Learning Socket.io and Redis</li>  
+        <li>💻 Full / LAMP / MERN STACK DEVELOPER, Microservices, Serverless, AWS</li>
+        <li>🙌 Currently Learning Serverless</li>  
       </ul>
     </td>
     <td style="width: 30%; background-color: #ffffff;">
       <h2>Contributions:</h2>
       <ul>
+        <li><a href="https://github.com/KKA-0/TimeShaasan">TimeShaasan</a></li>
+        <li><a href="https://github.com/KKA-0/Uski-Drive.git">UskiDrive</a></li>
         <li><a href="https://github.com/KKA-0/Quiska">Quiska</a></li>
-         <li><a href="https://agarwal-handloom.web.app/">Ecommerce Website</a></li>
-         <li><a href="https://github.com/Linkin143/SpeedX">SpeedX</a></li>
+<!--          <li><a href="https://agarwal-handloom.web.app/">Ecommerce Website</a></li> -->
+<!--          <li><a href="https://github.com/Linkin143/SpeedX">SpeedX</a></li> -->
       </ul>
     </td>
   </tr>
