@@ -34,11 +34,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                       36 mins         ██████████▓░░░░░░░░░░░░░░   43.04 %
-JavaScript                 30 mins         █████████░░░░░░░░░░░░░░░░   36.37 %
-Bash                       7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-PowerShell                 6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-Nginx configuration file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+YAML                       35 mins         ██████████████████████▓░░   90.76 %
+Nginx configuration file   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Bash                       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
