@@ -34,9 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                       35 mins         ██████████████████████▓░░   90.76 %
-Nginx configuration file   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-Bash                       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+YAML   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
