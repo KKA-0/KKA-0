@@ -11,7 +11,7 @@
       <ul>
         <li>⚙ Learning New Tech</li>
         <li>💻 Full / LAMP / MERN STACK DEVELOPER, Microservices, Serverless, AWS</li>
-        <li>🙌 Currently Learning Serverless</li>  
+        <li>🙌 Currently Learning Bash Scripting</li>  
       </ul>
     </td>
     <td style="width: 30%; background-color: #ffffff;">
