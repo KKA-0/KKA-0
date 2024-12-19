@@ -34,7 +34,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML         29 mins         █████████████░░░░░░░░░░░░   52.22 %
+TypeScript   13 mins         ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+JavaScript   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+JSON         5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
 ```
 
 <!--END_SECTION:waka-->
