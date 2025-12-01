@@ -34,7 +34,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker   1 hr 17 mins    █████████████████████████   100.00 %
+Docker   1 hr 17 mins    ████████████████████████░   96.59 %
+Python   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
