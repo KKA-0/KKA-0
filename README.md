@@ -34,9 +34,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Docker       27 mins         ████████████████████▓░░░░   82.15 %
-TypeScript   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-Python       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+TypeScript   3 mins          █████████████▓░░░░░░░░░░░   54.67 %
+Python       2 mins          ███████████▒░░░░░░░░░░░░░   45.33 %
 ```
 
 <!--END_SECTION:waka-->
