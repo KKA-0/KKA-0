@@ -34,8 +34,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   19 mins         ███████████████████████▓░   94.83 %
-Prisma       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
